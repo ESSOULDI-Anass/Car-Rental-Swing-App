@@ -1,5 +1,6 @@
 EX/
 .classpath
 .project
+*.class
 module-info.class
 module-info.java
